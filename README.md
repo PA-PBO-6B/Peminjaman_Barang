@@ -1,6 +1,8 @@
 # Peminjaman_Barang
 
-![logo inforsa](https://github.com/user-attachments/assets/9d8d8222-f214-4d9e-bdc0-465a01cce4ae)
+
+
+![logo inforsa](https://github.com/user-attachments/assets/09c0949b-e9c5-46fe-82b4-7a4048b6d36c)
 
 
 Proyek kami mengambil acuan dari Sistem Manajemen Sekretariat Inforsa yang dikelola oleh Anggota Divisi Storage dari departemen Biro Industri Kreatif INFORSA
